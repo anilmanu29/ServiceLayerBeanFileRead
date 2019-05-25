@@ -1,4 +1,5 @@
-# exampleFileReader
+# ServiceLayerBeanFileReading
+
 Example File Reader Service
 Part 1:
 
